@@ -13,16 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=Ojhaharsh&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 <h1 align="center">
-  Hey! welcome 
+  Hey there, I'm Ojha
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdmcHZ3emg1ZDRqeXlvd3ZuNmwzbG9reDV4N3JrZmE2aWFlYmFxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZKJMlAX66AtUo20RNs/giphy.gif" width="50px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47ivjwfmar3vt056eecfx0bqeyjjgbo4qklwf14ftz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
 
-***
-
- About Me :
+<h2 style="text-align: center; font-size: 24px; margin: 20px 0;">
+  💫 About Me
+</h2
 
 :telescope: AI enthusiast with a focus on ML + GenAI.
 
@@ -73,16 +70,7 @@
 
 ---
 :writing_hand: Fav quote:
-<table>
-  <tr>
-    <td style="background-color: #f0f0f0; color: #ff6600; padding: 15px; border: 2px solid #cccccc; text-align: center; font-style: italic;">
-      "A dev once forgot to commit, survived on chai and came back again."
-    </td>
-  </tr>
-</table>
 
-
-
-
+![readme pic](https://github.com/user-attachments/assets/04266a10-600a-42ec-b309-09b739d21b53)
 
 
