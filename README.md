@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/R5kxDMOpQrGf0ykqNQ/giphy.gif?cid=790b7611vb1iqo2d4i835mj9b0b3hzzt9jujm80qmu9ovtf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
-</div>
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/harshvardhan-ojha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
