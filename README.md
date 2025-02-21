@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ojhaharsh&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 <h1 align="center">
-  Hey there, I'm Ojha
+  Hey there, I'm BB
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdmcHZ3emg1ZDRqeXlvd3ZuNmwzbG9reDV4N3JrZmE2aWFlYmFxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZKJMlAX66AtUo20RNs/giphy.gif" width="50px"/>
 </h1>
 
