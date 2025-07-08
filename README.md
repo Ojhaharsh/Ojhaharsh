@@ -30,6 +30,10 @@ def greeting():
 
 ---
 
+## Visitor count
+![Visitor Count](https://count.getloli.com/get/@Ojhaharsh?theme=rule34)
+
+---
 ### 🐱
 ![coder](https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp)
 
